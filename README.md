@@ -1,7 +1,3 @@
-hola descripcion
-
-primer cambio
-
 Sistema de Gestion
 Supermark
 
